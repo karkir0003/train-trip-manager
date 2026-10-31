@@ -1,0 +1,10 @@
+{
+  "name": "train-trip-manager",
+  "version": "1.0.0",
+  "description": "Train Trip Manager - JavaScript Starter",
+  "main": "trip_manager.js",
+  "scripts": {
+    "start": "node trip_manager.js",
+    "test": "node trip_manager.js"
+  }
+}
